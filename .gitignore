@@ -1,0 +1,14 @@
+*.pyc
+*.py~
+**/.DS_Store
+
+.pylintignore
+.pylintrc
+
+flake.ignore
+
+# VS Code
+.vscode/
+
+venv/
+.venv/
